@@ -166,8 +166,7 @@ Note: If you start a container with a volume that does not yet exist, Docker cre
 ## Shortcuts
 
 ### Kill a container within the session
-    Ctrl-c
+    $ ctrl+c
 
 ### Detach from a container without killing it
-    Ctrl-p
-    Ctrl-q
+    $ ctrl+p ctrl+q
